@@ -1,0 +1,84 @@
+.navbar
+{
+    background-color:white !important;
+}
+.nav-link
+{
+    color:#B3061B !important;
+    font-weight: 500;
+}
+.nav-link:hover
+{
+    background-color:rgb(0, 123, 255)	;
+}
+.dropdown-item
+{
+    color: #B3061B !important;
+}
+.dropdown-item:hover
+{
+    background-color: #5CE2F2;
+    color: #B3061B!important;
+}
+.fa-shopping-bag,.fa-user,.fa-search
+{
+    font-size: 25px !important;
+}
+
+.jumbotron
+{
+    background-color: black;
+    color: white;
+}
+.btn{
+    background-color:#B3061B ;
+    color: white;
+}
+.jumbotron
+{
+    margin-top: 40px;
+}
+.fa-truck,.fa-phone,.fa-headphones
+{
+    font-size: 25px !important;
+    color: #B3061B;
+}
+.card
+{
+    width: 250px;
+    height: 200px;
+    margin: 20px !important;
+  
+
+}
+.pro > h2
+{
+    text-shadow:2px 2px 2px #B3061B;
+}
+.newitems
+{
+    margin-top: 200px;
+}
+.footer-copyright,.fa-facebook,.fa-twitter,.fa-instagram,.fa-google-plus,.fa-envelope-o,.fa-address-book
+{
+    color: #B3061B;
+    font-size: 25px !important;
+}
+.page-footer
+{
+    margin-top: 100px;
+}
+.aboutus
+{
+    padding: 40px !important;
+}    
+.abouttext
+{
+    background-color: #B3061B;
+    color: white;
+    
+}
+.cartbtn2
+{
+    size: 40px !important;
+}
